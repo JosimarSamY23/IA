@@ -1,6 +1,0 @@
-User, 1, Samuel, 30, Providencia, 1000
-User, 2, Nala, 25, Monumental, 500
-User, 3, Pedro, 22, Zapopan, 700
-Item, 1, Manzana, 10, 50, Frutas S.A.
-Item, 2, Laptop, 1000, 5, ElectroShop
-Item, 3, Barritas, 18, 15, Marinela
