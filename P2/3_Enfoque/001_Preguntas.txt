@@ -1,0 +1,29 @@
+Pregunta 1: Cual es el valor de verdad de A AND B si A=True y B=False?
+a) Verdadero
+b) Falso
+c) Indeterminado
+Respuesta: b
+
+Pregunta 2: Cual es el valor de verdad de A OR B si A=False y B=False?
+a) Verdadero
+b) Falso
+c) Indeterminado
+Respuesta: b
+
+Pregunta 3: Cual operador logico se utiliza para la negacion?
+a) NOT
+b) AND
+c) OR
+Respuesta: a
+
+Pregunta 4: Cual es el valor de verdad de NOT A si A=True?
+a) Verdadero
+b) Falso
+c) Indeterminado
+Respuesta: b
+
+Pregunta 5: Cual operador devuelve True solo si ambas expresiones son verdaderas?
+a) AND
+b) OR
+c) NOT
+Respuesta: a

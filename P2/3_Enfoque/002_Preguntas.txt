@@ -1,0 +1,29 @@
+Pregunta 1: Que es un cuantificador en logica de primer orden?
+a) Un simbolo que representa una relacion
+b) Un operador que asocia una variable con un conjunto
+c) Una constante de un predicado
+Respuesta: b
+
+Pregunta 2: Cuantos tipos de cuantificadores existen en logica de primer orden?
+a) Uno
+b) Dos
+c) Tres
+Respuesta: b
+
+Pregunta 3: Que representa un predicado en logica de primer orden?
+a) Un enunciado completo
+b) Una variable
+c) Una proposicion que depende de valores
+Respuesta: c
+
+Pregunta 4: Cual es la diferencia entre la cuantificacion universal y la cuantificacion existencial?
+a) La cuantificacion universal indica que una propiedad es verdadera para al menos un elemento, mientras que la cuantificacion existencial indica que es verdadera para todos los elementos
+b) La cuantificacion universal indica que una propiedad es verdadera para todos los elementos, mientras que la cuantificacion existencial indica que es verdadera para al menos un elemento
+c) La cuantificacion universal y la cuantificacion existencial significan lo mismo
+Respuesta: b
+
+Pregunta 5: Que es una constante en logica de primer orden?
+a) Un objeto especifico dentro del dominio
+b) Una variable independiente
+c) Una relacion entre objetos
+Respuesta: a
