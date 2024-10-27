@@ -1,0 +1,29 @@
+Pregunta 1: Que es Fuzzy CLIPS?
+A) Un lenguaje de programacion para algoritmos de busqueda.
+B) Un sistema de inferencia basado en logica difusa que extiende CLIPS.
+C) Un software de diseño grafico.
+Respuesta correcta: b
+
+Pregunta 2: Cual es la funcion principal de Fuzzy CLIPS?
+A) Crear graficos difusos para la visualizacion de datos.
+B) Implementar reglas de inferencia difusa en sistemas expertos.
+C) Calcular la probabilidad de eventos aleatorios.
+Respuesta correcta: b
+
+Pregunta 3: En Fuzzy CLIPS, que se utiliza para representar conocimiento difuso?
+A) Conjuntos difusos y reglas difusas.
+B) Números enteros y variables booleanas.
+C) Solo variables booleanas.
+Respuesta correcta: a
+
+Pregunta 4: Que tipo de logica permite Fuzzy CLIPS incorporar en sus sistemas?
+A) Solo logica proposicional.
+B) Logica de primer orden y logica difusa.
+C) Solo logica clasica.
+Respuesta correcta: b
+
+Pregunta 5: Cual de las siguientes caracteristicas es propia de Fuzzy CLIPS?
+A) Capacidad de realizar operaciones aritmeticas avanzadas.
+B) Soporte para reglas de inferencia difusa y conjuntos difusos.
+C) Exclusivamente basado en logica booleana.
+Respuesta correcta: b

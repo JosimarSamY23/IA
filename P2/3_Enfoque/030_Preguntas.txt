@@ -1,0 +1,29 @@
+Pregunta 1: Que define a un conjunto difuso?
+A) Todos sus elementos tienen una pertenencia absoluta.
+B) Los elementos tienen un grado de pertenencia que varía entre 0 y 1.
+C) Solo puede contener números enteros.
+Respuesta correcta: b
+
+Pregunta 2: Cual de las siguientes opciones describe mejor la funcion de pertenencia en un conjunto difuso?
+A) Asigna un valor booleano a cada elemento.
+B) Calcula el promedio de todos los elementos del conjunto.
+C) Determina el grado en que un elemento pertenece al conjunto.
+Respuesta correcta: c
+
+Pregunta 3: Si un elemento tiene un grado de pertenencia de 0.7 en un conjunto difuso, que significa esto?
+A) El elemento no pertenece al conjunto.
+B) El elemento pertenece al conjunto en un 70%.
+C) El elemento pertenece completamente al conjunto.
+Respuesta correcta: b
+
+Pregunta 4: Cual es un ejemplo de un conjunto difuso en la vida cotidiana?
+A) La lista de estudiantes en una clase.
+B) Las temperaturas clasificadas como "frias", "templadas" y "calientes".
+C) Los colores de una paleta de pintura.
+Respuesta correcta: b
+
+Pregunta 5: Que caracteristica distingue a los conjuntos difusos de los conjuntos clasicos?
+A) Los conjuntos difusos son mas faciles de calcular.
+B) Los conjuntos difusos permiten clasificaciones mas flexibles y graduales.
+C) Los conjuntos difusos siempre contienen menos elementos.
+Respuesta correcta: b

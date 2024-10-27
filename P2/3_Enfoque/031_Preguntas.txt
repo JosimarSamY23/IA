@@ -1,0 +1,29 @@
+Pregunta 1: Que es la inferencia difusa?
+A) Un proceso que utiliza reglas difusas para llegar a conclusiones a partir de datos inciertos.
+B) Un metodo de calculo que utiliza solo numeros enteros.
+C) Un tipo de inferencia que solo aplica a datos booleanos.
+Respuesta correcta: a
+
+Pregunta 2: En la inferencia difusa, que papel juegan las reglas difusas?
+A) Son utilizadas para definir conjuntos difusos.
+B) Permiten realizar operaciones aritmeticas.
+C) Proporcionan una estructura para combinar informacion incierta y llegar a conclusiones.
+Respuesta correcta: c
+
+Pregunta 3: Cual de las siguientes es una etapa en el proceso de inferencia difusa?
+A) Normalizacion de datos.
+B) Definicion de conjuntos cerrados.
+C) Evaluacion de reglas y agregacion de resultados.
+Respuesta correcta: c
+
+Pregunta 4: En el contexto de la inferencia difusa, que es la defuzzificacion?
+A) El proceso de transformar valores nitidos en valores difusos.
+B) La conversion de un resultado difuso a un valor nitido o exacto.
+C) La eliminacion de elementos en un conjunto difuso.
+Respuesta correcta: b
+
+Pregunta 5: Cual es un ejemplo de aplicacion de la inferencia difusa?
+A) Clasificacion de productos en una tienda.
+B) Control de temperatura en sistemas de climatizacion.
+C) Calculo de intereses bancarios.
+Respuesta correcta: b
