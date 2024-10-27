@@ -1,0 +1,29 @@
+Pregunta 1: Que es una tabla de verdad en logica proposicional?
+A) Una herramienta para calcular la complejidad de un algoritmo.
+B) Una representacion que muestra todas las posibles combinaciones de valores de verdad de las proposiciones.
+C) Un metodo para analizar la frecuencia de palabras en un texto.
+Respuesta correcta: b
+
+Pregunta 2: Cuantos valores de verdad tiene una proposicion atomica?
+A) Uno.
+B) Dos.
+C) Tres.
+Respuesta correcta: b
+
+Pregunta 3: Que simboliza el operador logico "y" en una tabla de verdad?
+A) La disyuncion de dos proposiciones.
+B) La conjuncion de dos proposiciones.
+C) La negacion de una proposicion.
+Respuesta correcta: b
+
+Pregunta 4: Cuál es el resultado de la tabla de verdad para la expresion "p o no q" cuando p es verdadero y q es falso?
+A) Verdadero.
+B) Falso.
+C) Indeterminado.
+Respuesta correcta: a
+
+Pregunta 5: Que representa la columna final en una tabla de verdad?
+A) La conclusion de una proposicion.
+B) La complejidad computacional de la proposicion.
+C) El resultado de evaluar la proposicion para todas las combinaciones posibles de sus variables.
+Respuesta correcta: c

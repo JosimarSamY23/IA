@@ -1,0 +1,29 @@
+Pregunta 1: Que es una base de conocimiento en inteligencia artificial?
+A) Un conjunto de algoritmos de aprendizaje.
+B) Una coleccion de hechos y reglas que representan conocimiento sobre un dominio.
+C) Un sistema operativo para gestionar datos.
+Respuesta correcta: b
+
+Pregunta 2: Cuál es la funcion principal de una base de conocimiento?
+A) Almacenar datos sin procesar.
+B) Proveer un sistema para hacer inferencias y responder consultas.
+C) Crear visualizaciones de datos.
+Respuesta correcta: b
+
+Pregunta 3: Que tipo de reglas se utilizan comunmente en una base de conocimiento?
+A) Reglas heuristicas.
+B) Reglas de produccion.
+C) Reglas de tiempo.
+Respuesta correcta: b
+
+Pregunta 4: Cual es un ejemplo de un sistema que utiliza una base de conocimiento?
+A) Un software de procesamiento de texto.
+B) Un sistema experto en diagnostico medico.
+C) Un navegador web.
+Respuesta correcta: b
+
+Pregunta 5: Como se puede actualizar una base de conocimiento?
+A) Eliminando toda la base de conocimiento.
+B) Agregando nuevos hechos y reglas a la base existente.
+C) Cambiando el formato de archivo.
+Respuesta correcta: b

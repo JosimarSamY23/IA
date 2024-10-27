@@ -1,0 +1,30 @@
+Pregunta 1: Que es la inferencia logica proposicional?
+A) Un proceso para determinar la verdad de una proposicion.
+B) Un metodo para validar algoritmos.
+C) Un sistema para almacenar datos.
+Respuesta correcta: a
+
+Pregunta 2: Cual de los siguientes es un ejemplo de regla de inferencia en logica proposicional?
+A) Modus Ponens.
+B) Inferencia inductiva.
+C) Algoritmo de busqueda.
+Respuesta correcta: a
+
+Pregunta 3: Cual es la forma de Modus Tollens?
+A) Si P, entonces Q. P es verdadero, por lo tanto Q es verdadero.
+B) Si P, entonces Q. No Q, por lo tanto no P.
+C) Si P, entonces Q. Q es verdadero, por lo tanto P es verdadero.
+Respuesta correcta: b
+
+Pregunta 4: Que tipo de argumento se considera valido en logica proposicional?
+A) Un argumento que es siempre verdadero.
+B) Un argumento que tiene al menos una premisa falsa.
+C) Un argumento cuya conclusion no sigue de las premisas.
+Respuesta correcta: a
+
+Pregunta 5: Que se utiliza para representar proposiciones en logica proposicional?
+A) Tablas de multiplicar.
+B) Variables booleanas.
+C) Funciones matematicas.
+Respuesta correcta: b
+
