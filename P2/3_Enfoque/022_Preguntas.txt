@@ -1,0 +1,29 @@
+Pregunta 1: Que es la Skolemizacion?
+A) Un proceso para eliminar cuantificadores existenciales en logica de primer orden.
+B) Un metodo para optimizar algoritmos de busqueda.
+C) Una tecnica para generar tablas de verdad.
+Respuesta correcta: a
+
+Pregunta 2: Cual es el proposito de transformar una formula a forma normal prenex antes de la Skolemizacion?
+A) Para simplificar la consulta.
+B) Para organizar los cuantificadores en una estructura estandarizada.
+C) Para hacer que la formula sea mas legible.
+Respuesta correcta: b
+
+Pregunta 3: Que se utiliza para reemplazar los cuantificadores existenciales en la Skolemizacion?
+A) Constantes o funciones Skolem.
+B) Variables aleatorias.
+C) Hechos y reglas.
+Respuesta correcta: a
+
+Pregunta 4: Despues de la Skolemizacion, ¿que tipo de cuantificadores quedan en la formula?
+A) Cuantificadores universales.
+B) Cuantificadores existenciales.
+C) Ninguno.
+Respuesta correcta: a
+
+Pregunta 5: Cual es un efecto de aplicar Skolemizacion en una formula logica?
+A) Hace que la formula sea siempre verdadera.
+B) Elimina la ambigüedad en los resultados.
+C) Permite la resolucion de la formula de manera más eficiente.
+Respuesta correcta: c

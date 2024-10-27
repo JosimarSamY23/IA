@@ -1,0 +1,29 @@
+Pregunta 1: Que es Prolog?
+A) Un lenguaje de programacion basado en la logica.
+B) Un sistema operativo para la inteligencia artificial.
+C) Un compilador para lenguajes de alto nivel.
+Respuesta correcta: a
+
+Pregunta 2: Cual de las siguientes es una caracteristica clave de Prolog?
+A) Programacion orientada a objetos.
+B) Inferencia basada en reglas y hechos.
+C) Uso de punteros y estructuras de datos.
+Respuesta correcta: b
+
+Pregunta 3: Que representa un "hecho" en Prolog?
+A) Una regla que puede ser utilizada para inferencia.
+B) Una afirmacion que se considera verdadera en el sistema.
+C) Un conjunto de variables que pueden cambiar.
+Respuesta correcta: b
+
+Pregunta 4: Para que se utiliza CLIPS?
+A) Para la compilacion de programas en C.
+B) Para crear sistemas expertos y de inferencia.
+C) Para la visualizacion de datos.
+Respuesta correcta: b
+
+Pregunta 5: Cual es la estructura basica de un programa en Prolog?
+A) Variables y funciones.
+B) Hechos, reglas y consultas.
+C) Clases y objetos.
+Respuesta correcta: b

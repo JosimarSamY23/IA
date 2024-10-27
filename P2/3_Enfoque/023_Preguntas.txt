@@ -1,0 +1,29 @@
+Pregunta 1: Que es un agente logico en inteligencia artificial?
+A) Un sistema que toma decisiones basadas en reglas y conocimiento logico.
+B) Un programa que procesa datos de manera aleatoria.
+C) Un algoritmo que genera numeros aleatorios.
+Respuesta correcta: a
+
+Pregunta 2: Cual es la principal funcion de un agente logico?
+A) Almacenar datos sin procesarlos.
+B) Inferir nuevos hechos a partir de la informacion existente.
+C) Crear graficos de datos.
+Respuesta correcta: b
+
+Pregunta 3: Que tipo de logica se utiliza comunmente en agentes logicos?
+A) Logica proposicional y logica de primer orden.
+B) Logica difusa y logica cuantica.
+C) Logica estadística y logica de programacion.
+Respuesta correcta: a
+
+Pregunta 4: Cual es un ejemplo de un agente logico?
+A) Un sensor de temperatura.
+B) Un programa de ajedrez que toma decisiones basadas en reglas.
+C) Una base de datos sin procesamiento logico.
+Respuesta correcta: b
+
+Pregunta 5: Que permite a un agente logico adaptarse a nuevas situaciones?
+A) Su capacidad para generar aleatoriedad.
+B) Su habilidad para aprender de la experiencia y modificar sus reglas.
+C) Su diseño estructural fijo.
+Respuesta correcta: b
