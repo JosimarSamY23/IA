@@ -1,0 +1,29 @@
+Pregunta 1: Que es la forma normal conjuntiva (FNC)?
+A) Una forma en la que una proposicion es una disyuncion de literales.
+B) Una forma en la que una proposicion es una conjuncion de disyunciones de literales.
+C) Una forma en la que una proposicion contiene solo variables.
+Respuesta correcta: b
+
+Pregunta 2: Cual es el objetivo del proceso de resolucion en logica proposicional?
+A) Encontrar el valor de verdad de una proposicion.
+B) Simplificar expresiones logicas.
+C) Derivar nuevas proposiciones a partir de otras.
+Respuesta correcta: c
+
+Pregunta 3: Que se necesita para aplicar la resolucion en logica proposicional?
+A) Solo una proposicion.
+B) Conjuntos de proposiciones en forma normal disyuntiva.
+C) Solo literales.
+Respuesta correcta: b
+
+Pregunta 4: Cual es un resultado esperado de aplicar la resolucion?
+A) Obtener una proposicion siempre verdadera.
+B) Derivar contradicciones.
+C) Simplificar una proposicion a su forma original.
+Respuesta correcta: b
+
+Pregunta 5: Que representa un literal en la forma normal conjuntiva?
+A) Una proposicion compuesta.
+B) Una variable o su negacion.
+C) Un conjunto de proposiciones.
+Respuesta correcta: b

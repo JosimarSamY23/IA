@@ -1,0 +1,30 @@
+Pregunta 1: Que se entiende por equivalencia en logica proposicional?
+A) Dos proposiciones que tienen el mismo valor de verdad en todas las interpretaciones.
+B) Dos proposiciones que son siempre verdaderas.
+C) Dos proposiciones que tienen diferentes valores de verdad.
+Respuesta correcta: a
+
+Pregunta 2: Que significa que una proposicion sea valida?
+A) Es verdadera en al menos una interpretacion.
+B) Es falsa en todas las interpretaciones.
+C) Es verdadera en todas las interpretaciones.
+Respuesta correcta: c
+
+Pregunta 3: Cual es el objetivo de determinar la satisfacibilidad de una proposicion?
+A) Encontrar un valor de verdad que haga que la proposicion sea falsa.
+B) Encontrar un valor de verdad que haga que la proposicion sea verdadera.
+C) Determinar si la proposicion es equivalente a otra.
+Respuesta correcta: b
+
+Pregunta 4: Que es una forma normal en logica proposicional?
+A) Una forma de escribir una proposicion de manera que sea siempre valida.
+B) Una representacion estandarizada de proposiciones.
+C) Una forma de resolver ecuaciones.
+Respuesta correcta: b
+
+Pregunta 5: Cual de las siguientes es una tecnica para verificar la validez de una proposicion?
+A) Evaluar con tablas de verdad.
+B) Utilizar algoritmos de busqueda.
+C) Aplicar teoria de juegos.
+Respuesta correcta: a
+

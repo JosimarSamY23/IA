@@ -1,0 +1,29 @@
+Pregunta 1: Que es el backtracking en el contexto de la inteligencia artificial?
+A) Un algoritmo que busca soluciones incrementales mediante la exploracion de todas las posibilidades.
+B) Un enfoque que usa una tabla de verdad para encontrar soluciones.
+C) Un metodo que se basa en reglas de produccion para tomar decisiones.
+Respuesta correcta: a
+
+Pregunta 2: Cual es una caracteristica clave del backtracking?
+A) Siempre encuentra la solucion optima.
+B) Se detiene tan pronto como encuentra la primera solucion valida.
+C) Solo funciona en problemas de optimizacion.
+Respuesta correcta: b
+
+Pregunta 3: En que tipo de problemas se aplica comunmente el backtracking?
+A) Problemas de clasificacion.
+B) Problemas de busqueda combinatoria como el Sudoku o el problema de las N reinas.
+C) Problemas de regresion.
+Respuesta correcta: b
+
+Pregunta 4: Que hace el algoritmo de backtracking cuando encuentra una solucion parcial que no puede llevar a una solucion completa?
+A) Continua explorando otras posibilidades.
+B) Regresa al ultimo paso y prueba una nueva opcion.
+C) Termina la ejecucion.
+Respuesta correcta: b
+
+Pregunta 5: Cual de los siguientes es un ejemplo clasico de un problema que se puede resolver utilizando backtracking?
+A) Ordenar una lista de numeros.
+B) Encontrar el camino mas corto en un grafo.
+C) Resolver un rompecabezas como el cubo Rubik.
+Respuesta correcta: c

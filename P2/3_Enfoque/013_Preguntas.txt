@@ -1,0 +1,29 @@
+Pregunta 1: Que es el encadenamiento hacia adelante en sistemas de inferencia?
+A) Un proceso que comienza con los hechos y aplica reglas para llegar a conclusiones.
+B) Un proceso que comienza con las conclusiones y busca los hechos que las apoyan.
+C) Un método para construir tablas de verdad.
+Respuesta correcta: a
+
+Pregunta 2: Cual es la principal ventaja del encadenamiento hacia atras?
+A) Es más eficiente al trabajar con un conjunto grande de hechos.
+B) Permite encontrar conclusiones sin conocer todos los hechos.
+C) Requiere menos reglas para derivar conclusiones.
+Respuesta correcta: b
+
+Pregunta 3: Que tipo de problema es mas adecuado para resolver con encadenamiento hacia adelante?
+A) Problemas donde se conocen todas las conclusiones desde el principio.
+B) Problemas con muchas premisas y pocas conclusiones deseadas.
+C) Problemas donde la respuesta es inmediata.
+Respuesta correcta: b
+
+Pregunta 4: Cual es una desventaja del encadenamiento hacia atras?
+A) Puede ser menos eficiente en tiempo en comparación con el encadenamiento hacia adelante.
+B) Requiere que todas las reglas sean conocidas de antemano.
+C) Solo puede usarse en sistemas de lógica proposicional.
+Respuesta correcta: a
+
+Pregunta 5: En el encadenamiento hacia atras, que se hace primero?
+A) Se identifican los hechos conocidos.
+B) Se formula la conclusión deseada.
+C) Se aplican todas las reglas disponibles.
+Respuesta correcta: b

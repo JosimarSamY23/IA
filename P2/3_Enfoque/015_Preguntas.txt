@@ -1,0 +1,29 @@
+Pregunta 1: Que es un algoritmo de busqueda local?
+A) Un algoritmo que explora todo el espacio de soluciones.
+B) Un metodo que mejora soluciones a traves de movimientos locales en el espacio de soluciones.
+C) Un enfoque que utiliza programacion dinamica para encontrar la solucion optima.
+Respuesta correcta: b
+
+Pregunta 2: Cual de las siguientes es una caracteristica de los algoritmos de busqueda local?
+A) Siempre encuentra la solucion optima.
+B) Se basa en una funcion de costo para evaluar soluciones.
+C) Utiliza el backtracking para retroceder a soluciones anteriores.
+Respuesta correcta: b
+
+Pregunta 3: Que problema puede surgir al usar algoritmos de busqueda local?
+A) Quedarse atrapado en un optimo local.
+B) No ser capaz de encontrar ninguna solucion.
+C) Requerir demasiados recursos computacionales.
+Respuesta correcta: a
+
+Pregunta 4: Cual de las siguientes estrategias puede ayudar a superar el problema de los optimos locales?
+A) Aumentar la profundidad de busqueda.
+B) Utilizar tecnicas de recocido simulado o busqueda tabu.
+C) Hacer una busqueda exhaustiva de todas las soluciones posibles.
+Respuesta correcta: b
+
+Pregunta 5: Cual es un ejemplo comun de un algoritmo de busqueda local?
+A) Algoritmo de Dijkstra.
+B) Algoritmo genetico.
+C) Algoritmo de busqueda en profundidad.
+Respuesta correcta: b
