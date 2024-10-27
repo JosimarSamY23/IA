@@ -1,0 +1,29 @@
+Pregunta 1: Que caracteriza a las logicas de orden superior en comparacion con las logicas de primer orden?
+A) Permiten cuantificar sobre predicados y funciones.
+B) Solo permiten cuantificar sobre constantes.
+C) Son mas simples que las logicas de primer orden.
+Respuesta correcta: a
+
+Pregunta 2: En las logicas de orden superior, cual es un ejemplo de un concepto que puede ser cuantificado?
+A) Un individuo especifico, como un objeto.
+B) Un predicado, como "es un mamifero".
+C) Un numero entero.
+Respuesta correcta: b
+
+Pregunta 3: Cual es una desventaja de las logicas de orden superior?
+A) Son mas poderosas que las logicas de primer orden.
+B) Su decidibilidad es generalmente mas complicada.
+C) No pueden representar conceptos complejos.
+Respuesta correcta: b
+
+Pregunta 4: Que tipo de inferencia se puede realizar en las logicas de orden superior?
+A) Inferencia directa sobre los individuos.
+B) Inferencia sobre las propiedades y relaciones de los predicados.
+C) Inferencia basada solo en la observacion.
+Respuesta correcta: b
+
+Pregunta 5: Cual de las siguientes afirmaciones es verdadera respecto a las logicas de orden superior?
+A) Son ampliamente utilizadas en sistemas expertos.
+B) Son menos expresivas que las logicas de primer orden.
+C) No se utilizan en inteligencia artificial.
+Respuesta correcta: a

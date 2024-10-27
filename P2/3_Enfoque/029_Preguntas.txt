@@ -1,0 +1,29 @@
+Pregunta 1: Que es la logica difusa?
+A) Un sistema que utiliza valores binarios para la toma de decisiones.
+B) Un enfoque que permite razonar sobre la incertidumbre y la imprecision.
+C) Un metodo exclusivo para problemas matematicos.
+Respuesta correcta: b
+
+Pregunta 2: Cual de las siguientes afirmaciones es verdadera sobre los conjuntos difusos?
+A) Solo pueden tener valores enteros.
+B) Un elemento puede pertenecer a un conjunto difuso en diferentes grados.
+C) Los conjuntos difusos no pueden aplicarse a problemas reales.
+Respuesta correcta: b
+
+Pregunta 3: En la logica difusa, que es una funcion de pertenencia?
+A) Un metodo para contar elementos en un conjunto.
+B) Una funcion que determina el grado de pertenencia de un elemento a un conjunto difuso.
+C) Una representación grafica de un conjunto.
+Respuesta correcta: b
+
+Pregunta 4: Cual de los siguientes ejemplos ilustra mejor la logica difusa?
+A) Un semaforo que tiene solo dos estados: rojo y verde.
+B) Un sistema de climatizacipn que ajusta la temperatura segun el nivel de confort.
+C) Un algoritmo que solo considera numeros enteros para realizar calculos.
+Respuesta correcta: b
+
+Pregunta 5: Que aplicacion comun se asocia con la logica difusa?
+A) Sistemas de control automatico.
+B) Bases de datos relacionales.
+C) Algoritmos de busqueda.
+Respuesta correcta: a

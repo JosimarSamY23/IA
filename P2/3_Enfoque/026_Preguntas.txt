@@ -1,0 +1,29 @@
+Pregunta 1: Que simboliza el operador "G" en logica temporal?
+A) Siempre.
+B) A veces.
+C) Nunca.
+Respuesta correcta: a
+
+Pregunta 2: Cual de los siguientes enunciados describe mejor el operador "F"?
+A) Es posible que suceda en el futuro.
+B) Debe suceder en el presente.
+C) Sucede en el pasado.
+Respuesta correcta: a
+
+Pregunta 3: Que operator se utiliza para indicar que algo ocurrira eventualmente?
+A) X (next).
+B) F (future).
+C) G (globally).
+Respuesta correcta: b
+
+Pregunta 4: En logica temporal, cual es la diferencia principal entre "G" y "F"?
+A) "G" indica que algo es posible; "F" indica que siempre es verdadero.
+B) "G" indica que algo es siempre verdadero; "F" indica que puede ser verdadero en algun momento.
+C) Ambos indican lo mismo.
+Respuesta correcta: b
+
+Pregunta 5: Que concepto se refiere a la evaluacion de proposiciones a lo largo del tiempo en logica temporal?
+A) Valor de verdad.
+B) Estrategia temporal.
+C) Modelo temporal.
+Respuesta correcta: c

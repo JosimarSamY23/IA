@@ -1,0 +1,29 @@
+Pregunta 1: Que concepto fundamental introduce la logica modal?
+A) La necesidad y la posibilidad.
+B) La verdad y la falsedad.
+C) La conclusion y la premisa.
+Respuesta correcta: a
+
+Pregunta 2: Cual de los siguientes terminos describe mejor una proposicion que podria ser verdadera en algunos mundos posibles?
+A) Necesaria.
+B) Contingente.
+C) Falsa.
+Respuesta correcta: b
+
+Pregunta 3: Que tipo de logica se utiliza para razonar sobre posibilidades y necesidades?
+A) Lógica proposicional.
+B) Lógica de primer orden.
+C) Lógica modal.
+Respuesta correcta: c
+
+Pregunta 4: En que tipo de sistemas es comun aplicar la logica modal?
+A) Sistemas de programacion lineal.
+B) Sistemas de conocimiento y razonamiento.
+C) Sistemas de optimizacion.
+Respuesta correcta: b
+
+Pregunta 5: Cual de las siguientes afirmaciones es cierta sobre la logica modal?
+A) Se centra solo en la verdad de las proposiciones.
+B) Permite la representacion de estados de conocimiento y creencias.
+C) No tiene aplicaciones en inteligencia artificial.
+Respuesta correcta: b

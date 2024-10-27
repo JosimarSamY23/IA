@@ -1,0 +1,29 @@
+Pregunta 1: Que es la logica por defecto?
+A) Un sistema para razonar sobre informacion incompleta o incierta.
+B) Un metodo para validar conclusiones absolutas.
+C) Un enfoque que no permite modificar conclusiones.
+Respuesta correcta: a
+
+Pregunta 2: Cual de las siguientes afirmaciones es verdadera sobre la logica por defecto?
+A) Siempre se basa en informacion completa.
+B) Permite suponer que ciertas afirmaciones son verdaderas a menos que se demuestre lo contrario.
+C) No puede adaptarse a nueva informacion.
+Respuesta correcta: b
+
+Pregunta 3: Que representa un "defecto" en la logica por defecto?
+A) Una verdad absoluta.
+B) Una creencia que puede ser revertida.
+C) Una conclusión que siempre se mantiene.
+Respuesta correcta: b
+
+Pregunta 4: En el contexto de la logica por defecto, que papel juegan los "contextos"?
+A) Permiten que todas las conclusiones sean validas.
+B) Proveen un marco para aplicar diferentes reglas de inferencia.
+C) Limitan la informacion disponible para el razonamiento.
+Respuesta correcta: b
+
+Pregunta 5: Cual de los siguientes es un desafio comun en la lpgica por defecto?
+A) Asegurar que todas las proposiciones sean verdaderas.
+B) Manejar contradicciones en la informacion.
+C) Eliminar la incertidumbre completamente.
+Respuesta correcta: b

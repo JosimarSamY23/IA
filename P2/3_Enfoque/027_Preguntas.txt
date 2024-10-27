@@ -1,0 +1,29 @@
+Pregunta 1: Que caracteriza a la logica no monotonica?
+A) Las conclusiones no pueden ser revertidas.
+B) Las conclusiones pueden cambiar con nueva informacion.
+C) Las conclusiones siempre son verdaderas.
+Respuesta correcta: b
+
+Pregunta 2: Cual de los siguientes es un ejemplo de logica no monotonica?
+A) Logica proposicional.
+B) Logica de primer orden.
+C) Logica de defecto.
+Respuesta correcta: c
+
+Pregunta 3: Que se entiende por "razonamiento por defecto" en logica no monotonica?
+A) Razonar sin informacion adicional.
+B) Suponer que una afirmacion es verdadera hasta que se demuestre lo contrario.
+C) Razonar solo con hechos confirmados.
+Respuesta correcta: b
+
+Pregunta 4: En logica no monotonica, que se busca al incorporar nueva informacion?
+A) Reforzar conclusiones anteriores.
+B) Modificar o eliminar conclusiones previas.
+C) Validar la logica proposicional.
+Respuesta correcta: b
+
+Pregunta 5: Cual de las siguientes afirmaciones es verdadera en el contexto de la logica no monotonica?
+A) Un conjunto de creencias es siempre consistente.
+B) La verdad de una proposicion no puede ser afectada por nuevas proposiciones.
+C) Una conclusion puede ser valida en un contexto y no valida en otro.
+Respuesta correcta: c
