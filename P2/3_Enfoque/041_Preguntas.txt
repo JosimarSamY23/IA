@@ -1,0 +1,29 @@
+Pregunta 1: Que representa un modelo probabilista racional en inteligencia artificial?
+A) Un enfoque para modelar la incertidumbre en la toma de decisiones.
+B) Un algoritmo de busqueda eficiente.
+C) Un sistema que nunca comete errores.
+Respuesta correcta: a
+
+Pregunta 2: En el contexto de los modelos probabilistas, que es la "probabilidad a posteriori"?
+A) La probabilidad de un evento antes de observar los datos.
+B) La probabilidad de un evento despues de observar los datos.
+C) La probabilidad de que un evento ocurra en el futuro.
+Respuesta correcta: b
+
+Pregunta 3: Cual de las siguientes afirmaciones describe mejor el teorema de Bayes?
+A) Permite calcular la probabilidad a priori de un evento.
+B) Relaciona las probabilidades a priori y a posteriori.
+C) Es un metodo para optimizar algoritmos de busqueda.
+Respuesta correcta: b
+
+Pregunta 4: Que papel juega la funcion de verosimilitud en un modelo probabilista?
+A) Determina la precision del modelo.
+B) Mide la probabilidad de observar los datos dados los parametros del modelo.
+C) Es irrelevante para el modelo.
+Respuesta correcta: b
+
+Pregunta 5: Cual de los siguientes es un uso comun de los modelos probabilistas en inteligencia artificial?
+A) Clasificacion de imagenes sin ruido.
+B) Diagnostico medico basado en sintomas inciertos.
+C) Juegos de estrategia sin incertidumbre.
+Respuesta correcta: b

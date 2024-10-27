@@ -1,0 +1,30 @@
+Pregunta 1: Que es una regla en el contexto de la representacion del conocimiento?
+A) Una afirmacion que se considera verdadera sin evidencia.
+B) Una declaracion que asocia una condicion con una accion o conclusion.
+C) Un conjunto de datos organizados en un formato especifico.
+Respuesta correcta: b
+
+Pregunta 2: Cual es el proposito de las redes semanticas en la representacion del conocimiento?
+A) Almacenar datos numericos.
+B) Representar relaciones entre conceptos de manera grafica.
+C) Describir reglas logicas complejas.
+Respuesta correcta: b
+
+Pregunta 3: Que tipo de logica es utilizada en la logica descriptiva?
+A) Logica de primer orden.
+B) Logica proposicional.
+C) Logica que permite representar y razonar sobre el conocimiento de dominio especifico.
+Respuesta correcta: c
+
+Pregunta 4: Cual de las siguientes afirmaciones describe mejor la relacion entre reglas y redes semanticas?
+A) Las reglas y las redes semanticas son mutuamente excluyentes.
+B) Las reglas pueden ser representadas como nodos en una red semantica.
+C) Las redes semanticas son irrelevantes para la definicion de reglas.
+Respuesta correcta: b
+
+Pregunta 5: Que caracteristica distingue a la logica descriptiva de otras formas de logica?
+A) Su enfoque en la cuantificacion de variables.
+B) Su capacidad para describir estructuras complejas y relaciones de conocimiento.
+C) Su uso exclusivo en matematicas.
+Respuesta correcta: b
+

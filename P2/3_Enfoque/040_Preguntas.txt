@@ -1,0 +1,30 @@
+Pregunta 1: Que es un sistema experto en inteligencia artificial?
+A) Un sistema que solo ejecuta tareas matematicas.
+B) Un sistema que simula el razonamiento humano en un dominio especifico.
+C) Un sistema que no utiliza datos para aprender.
+Respuesta correcta: b
+
+Pregunta 2: Cual es el componente principal de un sistema experto?
+A) Base de datos.
+B) Motor de inferencia.
+C) Interfaz de usuario.
+Respuesta correcta: b
+
+Pregunta 3: En que tipo de problemas son mas efectivos los sistemas expertos?
+A) Problemas completamente aleatorios.
+B) Problemas complejos que requieren conocimientos especializados.
+C) Problemas que no requieren razonamiento.
+Respuesta correcta: b
+
+Pregunta 4: Que tecnica se utiliza comunmente para extraer reglas en sistemas expertos?
+A) Aprendizaje supervisado.
+B) Mineria de datos.
+C) Programacion logica.
+Respuesta correcta: b
+
+Pregunta 5: Cual de los siguientes es un ejemplo de un sistema experto?
+A) Un programa de edicion de imagen.
+B) Un sistema de diagnostico medico.
+C) Un juego de ajedrez basico.
+Respuesta correcta: b
+

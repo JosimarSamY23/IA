@@ -1,0 +1,29 @@
+Pregunta 1: Que caracteriza al razonamiento no monotonico?
+A) Sus conclusiones son siempre definitivas y permanentes.
+B) Permite la posibilidad de revocar conclusiones a medida que se obtiene nueva informacion.
+C) Se basa unicamente en reglas estrictas y logicas.
+Respuesta correcta: b
+
+Pregunta 2: Cual es un ejemplo tipico de razonamiento por defecto?
+A) Inferir que un objeto es un pajaro a menos que se indique lo contrario.
+B) Determinar que todos los mamiferos son oviparos.
+C) Concluir que dos mas dos es igual a cinco.
+Respuesta correcta: a
+
+Pregunta 3: Cual de las siguientes afirmaciones es verdadera sobre el razonamiento por defecto?
+A) Siempre produce conclusiones validas sin excepcion.
+B) Se basa en suposiciones que pueden ser incorrectas.
+C) No permite la revision de informacion previa.
+Respuesta correcta: b
+
+Pregunta 4: Que tipo de logica se utiliza comunmente para formalizar el razonamiento no monotonico?
+A) Logica proposicional.
+B) Logica difusa.
+C) Logica de reglas.
+Respuesta correcta: c
+
+Pregunta 5: En el contexto del razonamiento no monotonico, que es una "excepcion"?
+A) Una regla que se aplica universalmente.
+B) Un caso particular que desafia la regla general.
+C) Una conclusion que no puede ser modificada.
+Respuesta correcta: b

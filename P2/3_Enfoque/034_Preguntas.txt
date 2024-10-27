@@ -1,0 +1,29 @@
+Pregunta 1: Que es una taxonomia en el contexto de la representacion del conocimiento?
+A) Un algoritmo para la clasificacion de datos.
+B) Una estructura jerarquica que organiza conceptos en categorias.
+C) Un tipo de base de datos.
+Respuesta correcta: b
+
+Pregunta 2: Cual de las siguientes afirmaciones describe mejor una categoria en una taxonomia?
+A) Es un conjunto de datos no estructurados.
+B) Es una agrupacion de objetos que comparten caracteristicas comunes.
+C) Es un algoritmo que optimiza procesos.
+Respuesta correcta: b
+
+Pregunta 3: Que relación existe entre categorias y objetos en una taxonomia?
+A) Los objetos son ejemplos especificos que pertenecen a una categoria.
+B) Las categorias son ejemplos especificos de objetos.
+C) No existe relacion entre ellos.
+Respuesta correcta: a
+
+Pregunta 4: Cual de los siguientes es un ejemplo de categoria en una taxonomia de animales?
+A) Gato.
+B) Mamiferos.
+C) Felino domestico.
+Respuesta correcta: b
+
+Pregunta 5: Que papel juegan las taxonomias en la organizacion del conocimiento?
+A) Permiten el almacenamiento eficiente de datos.
+B) Facilitan la busqueda y recuperacion de informacion al estructurar conceptos.
+C) Mejoran la velocidad de los algoritmos de busqueda.
+Respuesta correcta: b

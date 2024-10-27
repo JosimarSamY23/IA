@@ -1,0 +1,29 @@
+Pregunta 1: Que es un marco en el contexto de la representacion del conocimiento?
+A) Un tipo de estructura de datos utilizada en programacion.
+B) Una representacion conceptual que describe una situacion tipica o un evento.
+C) Un algoritmo para la optimizacion de recursos.
+Respuesta correcta: b
+
+Pregunta 2: Cual de las siguientes afirmaciones describe mejor la funcion de los marcos?
+A) Permiten almacenar datos en bases de datos relacionales.
+B) Proporcionan un contexto para la interpretacion de informacion basada en experiencias previas.
+C) Son utilizados exclusivamente para la visualizacion de datos.
+Respuesta correcta: b
+
+Pregunta 3: Que componente es comunmente parte de un marco?
+A) Un conjunto de instrucciones de programacion.
+B) Atributos y valores que describen las caracteristicas de un evento.
+C) Un algoritmo de busqueda.
+Respuesta correcta: b
+
+Pregunta 4: Cual de los siguientes es un ejemplo de un marco?
+A) La definicion de una funcion matematica.
+B) La descripcion de un "restaurante" que incluye informacion sobre los platos, horarios y ubicacion.
+C) Un conjunto de datos desorganizados sobre clientes.
+Respuesta correcta: b
+
+Pregunta 5: Como se utilizan los marcos en la inteligencia artificial?
+A) Para el procesamiento de texto sin estructura.
+B) Para facilitar la toma de decisiones al proporcionar contextos que guian la interpretacion.
+C) Para la compresion de datos.
+Respuesta correcta: b

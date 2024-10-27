@@ -1,0 +1,29 @@
+Pregunta 1: Que representa la incertidumbre en el contexto de la inteligencia artificial?
+A) La certeza absoluta sobre un evento futuro.
+B) La falta de conocimiento o informacion sobre un evento.
+C) La prediccion precisa de un resultado.
+Respuesta correcta: b
+
+Pregunta 2: Cual de los siguientes es un factor que puede aumentar la certeza en un sistema?
+A) La recopilacion de datos adicionales.
+B) La aleatoriedad en los procesos.
+C) La ambiguedad en la informacion.
+Respuesta correcta: a
+
+Pregunta 3: Que tecnica se utiliza comunmente para manejar la incertidumbre en sistemas de IA?
+A) Algoritmos deterministas.
+B) Teoria de probabilidades.
+C) Metodos de grafos.
+Respuesta correcta: b
+
+Pregunta 4: Cual de los siguientes conceptos se relaciona con la medicion de la certeza?
+A) Probabilidad.
+B) Induccion.
+C) Deducion.
+Respuesta correcta: a
+
+Pregunta 5: Que enfoque se utiliza para representar la incertidumbre en un sistema experto?
+A) Redes neuronales.
+B) Redes bayesianas.
+C) Algoritmos geneticos.
+Respuesta correcta: b

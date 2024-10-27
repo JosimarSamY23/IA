@@ -1,0 +1,29 @@
+Pregunta 1: Que es una ontologia en el contexto de la ingenieria del conocimiento?
+A) Un modelo que define un conjunto de conceptos y sus relaciones en un dominio especifico.
+B) Un tipo de lenguaje de programacion.
+C) Un algoritmo para la toma de decisiones.
+Respuesta correcta: a
+
+Pregunta 2: Cual es el objetivo principal de las ontologias?
+A) Almacenar datos de manera eficiente.
+B) Facilitar la comparticion y reutilizacion del conocimiento.
+C) Mejorar la velocidad de los algoritmos de busqueda.
+Respuesta correcta: b
+
+Pregunta 3: En una ontologia, que representa una clase?
+A) Un individuo unico dentro de un dominio.
+B) Un grupo de individuos que comparten propiedades comunes.
+C) Un conjunto de reglas logicas.
+Respuesta correcta: b
+
+Pregunta 4: Que tipo de relaciones pueden establecerse en una ontologia?
+A) Solo relaciones de equivalencia.
+B) Relaciones jerarquicas y de asociacion entre conceptos.
+C) Relaciones temporales.
+Respuesta correcta: b
+
+Pregunta 5: Que herramienta se utiliza frecuentemente para desarrollar ontologias?
+A) Bases de datos relacionales.
+B) Lenguajes de programacion como Python.
+C) Lenguajes de marcado como OWL o RDF.
+Respuesta correcta: c
