@@ -1,0 +1,30 @@
+Pregunta 1: Que es la unificacion en el contexto de la logica de primer orden?
+A) Un proceso para combinar dos o mas predicados.
+B) Un metodo para resolver ecuaciones diferenciales.
+C) Una tecnica para transformar una formula en forma normal.
+Respuesta correcta: a
+
+Pregunta 2: Cual de los siguientes es un ejemplo de unificacion?
+A) P(x) y P(a) se unifican a P(a).
+B) Q(x, y) y Q(y, x) se unifican a Q(a, b).
+C) R(a) y R(b) no se unifican.
+Respuesta correcta: a
+
+Pregunta 3: Que condicion debe cumplirse para que dos expresiones se puedan unificar?
+A) Deben tener la misma estructura y variables.
+B) Deben ser siempre verdaderas.
+C) Deben ser incompatibles.
+Respuesta correcta: a
+
+Pregunta 4: En la unificacion, que papel juegan las variables?
+A) No tienen importancia en el proceso.
+B) Se sustituyen por constantes o otras variables.
+C) Son siempre constantes.
+Respuesta correcta: b
+
+Pregunta 5: Cual es una aplicacion practica de la unificacion en sistemas expertos?
+A) Para calcular la eficiencia de un algoritmo.
+B) Para realizar inferencias a partir de reglas y hechos.
+C) Para crear interfaces graficas.
+Respuesta correcta: b
+

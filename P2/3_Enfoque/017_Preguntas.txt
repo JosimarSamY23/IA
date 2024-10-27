@@ -1,0 +1,29 @@
+Pregunta 1: Cual es el proposito principal de una regla de diagnostico?
+A) Determinar la causa de un problema.
+B) Predecir el resultado de un evento.
+C) Definir las variables en un sistema.
+Respuesta correcta: a
+
+Pregunta 2: Una regla de tipo "Si... Entonces..." se utiliza para expresar:
+A) Un hecho verdadero.
+B) Una relacion causal.
+C) Un principio general.
+Respuesta correcta: b
+
+Pregunta 3: En el contexto de reglas causales, que significa el antecedente?
+A) Es el resultado de la regla.
+B) Es la condicion que debe cumplirse.
+C) Es un hecho conocido.
+Respuesta correcta: b
+
+Pregunta 4: Cual de las siguientes afirmaciones es verdadera sobre las reglas de diagnostico?
+A) Son siempre absolutas y no admiten excepciones.
+B) Pueden ser utilizadas en sistemas expertos para inferir conclusiones.
+C) No son efectivas para problemas complejos.
+Respuesta correcta: b
+
+Pregunta 5: Si una regla causal indica que "Si A ocurre, entonces B ocurre", cual de las siguientes situaciones es correcta?
+A) A es necesario para que B ocurra, pero no suficiente.
+B) B no puede ocurrir sin A.
+C) B es una consecuencia directa de A.
+Respuesta correcta: c

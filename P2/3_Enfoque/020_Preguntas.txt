@@ -1,0 +1,29 @@
+Pregunta 1: Que es el encadenamiento hacia adelante en sistemas de inferencia?
+A) Un metodo que comienza con los hechos y aplica reglas para llegar a conclusiones.
+B) Un proceso que comienza con una conclusion y busca hechos que la apoyen.
+C) Una tecnica que utiliza tablas de verdad para deducir resultados.
+Respuesta correcta: a
+
+Pregunta 2: Cual es la principal diferencia entre el encadenamiento hacia adelante y hacia atras?
+A) El primero busca hechos, mientras que el segundo busca conclusiones.
+B) El primero es mas rapido que el segundo.
+C) El primero utiliza variables, mientras que el segundo no.
+Respuesta correcta: a
+
+Pregunta 3: Cual de los siguientes es un ejemplo de encadenamiento hacia atras?
+A) Si hay un hecho A, entonces se deduce B.
+B) Si se necesita probar B, se buscan hechos que lleven a B.
+C) Se comienzan a aplicar reglas a partir de B para obtener A.
+Respuesta correcta: b
+
+Pregunta 4: Que tipo de problema se puede resolver de manera eficiente con encadenamiento hacia adelante?
+A) Problemas de optimizacion.
+B) Problemas de busqueda y combinatoria.
+C) Problemas donde los hechos son conocidos y se necesita llegar a una conclusion.
+Respuesta correcta: c
+
+Pregunta 5: En el encadenamiento hacia atras, que se hace si no se encuentran hechos que apoyen la conclusion?
+A) Se detiene el proceso de inferencia.
+B) Se ignoran las reglas.
+C) Se buscan reglas alternativas que puedan llevar a otros hechos.
+Respuesta correcta: a

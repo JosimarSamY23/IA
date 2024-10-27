@@ -1,0 +1,29 @@
+Pregunta 1: Que es la ingenieria del conocimiento?
+A) Un enfoque para desarrollar algoritmos de aprendizaje automatico.
+B) Un campo que se centra en la representacion y el uso del conocimiento.
+C) Una metodologia para la programacion de software.
+Respuesta correcta: b
+
+Pregunta 2: Cual de las siguientes afirmaciones es verdadera sobre los sistemas expertos?
+A) Solo pueden resolver problemas matematicos.
+B) Se basan en reglas de conocimiento para tomar decisiones.
+C) No requieren conocimiento especializado.
+Respuesta correcta: b
+
+Pregunta 3: Cual es el objetivo principal de la adquisicion de conocimiento?
+A) Implementar algoritmos de busqueda.
+B) Recoger y organizar informacion relevante para un dominio especifico.
+C) Desarrollar interfaces de usuario.
+Respuesta correcta: b
+
+Pregunta 4: En el contexto de la ingenieria del conocimiento, que es un ontologia?
+A) Una herramienta para codificar algoritmos.
+B) Un modelo que representa conceptos y relaciones en un dominio.
+C) Un tipo de lenguaje de programacion.
+Respuesta correcta: b
+
+Pregunta 5: Que papel juega la razonamiento en la ingenieria del conocimiento?
+A) Permite la creacion de nuevos algoritmos.
+B) Facilita la inferencia de conclusiones a partir de reglas y hechos.
+C) No tiene un papel significativo.
+Respuesta correcta: b

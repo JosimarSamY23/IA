@@ -1,0 +1,29 @@
+Pregunta 1: Cual de los siguientes es un cuantificador existencial?
+A) Para todo
+B) Existe
+C) Si y solo si
+Respuesta correcta: b
+
+Pregunta 2: La notacion "Ax P(x)" significa:
+A) Existe un x tal que P(x) es verdadero.
+B) Para todo x, P(x) es verdadero.
+C) P(x) es verdadero para algunos x.
+Respuesta correcta: b
+
+Pregunta 3: Que representa el cuantificador "E (invertida)" en una afirmacion logica?
+A) La afirmacion es verdadera para todos los elementos de un conjunto.
+B) La afirmacion es verdadera para al menos un elemento de un conjunto.
+C) La afirmacion es falsa para todos los elementos de un conjunto.
+Respuesta correcta: b
+
+Pregunta 4: Cual es la diferencia principal entre el cuantificador universal y el cuantificador existencial?
+A) El cuantificador universal se refiere a un solo elemento, mientras que el existencial se refiere a todos.
+B) El cuantificador universal se aplica a todos los elementos, mientras que el existencial se aplica a al menos uno.
+C) No hay diferencia; ambos son intercambiables.
+Respuesta correcta: b
+
+Pregunta 5: En la expresion "Ax (P(x) -> Q(x))", que significa si P(x) es verdadero para un x dado?
+A) Q(x) necesariamente es verdadero.
+B) Q(x) necesariamente es falso.
+C) No se puede determinar el valor de Q(x).
+Respuesta correcta: a
