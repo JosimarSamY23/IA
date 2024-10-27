@@ -1,0 +1,29 @@
+Pregunta 1: Cual de los siguientes es un metodo comun para representar el conocimiento en Inteligencia Artificial?
+a) Redes Neuronales
+c) Redes Semanticas
+c) Algoritmo Genetico
+Respuesta: b
+
+Pregunta 2: Que estructura se usa en una red semantica para representar conceptos y relaciones?
+a) Conjuntos y listas
+b) Grafos de nodos y arcos
+c) Arboles binarios
+Respuesta: b
+
+Pregunta 3: En la logica de primer orden, que tipo de conocimiento permite representar?
+a) Hechos y reglas con variables.
+b) Datos estadisticos sin interpretacion.
+c) Solo hechos sin relaciones.
+Respuesta: a
+
+Pregunta 4: Que representa una ontologia en el contexto de la representacion del conocimiento?
+a) Una base de datos de hechos sin estructura
+b) Un sistema de reglas y deducciones logicas
+c) Una estructura formal para conceptos y relaciones
+Respuesta: c
+
+Pregunta 5: Que es un sistema basado en reglas?
+a) Un sistema que usa aprendizaje profundo para reconocer patrones
+b) Un sistema que aplica reglas para tomar decisiones o inferencias
+c) Un sistema que clasifica datos sin reglas definidas
+Respuesta: b

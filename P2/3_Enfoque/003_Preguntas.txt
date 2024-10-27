@@ -1,0 +1,29 @@
+Pregunta 1: Que describe una logica modal?
+a) Describe cambios a lo largo del tiempo
+b) Describe modalidades como posibilidad y necesidad
+c) Describe eventos inciertos en sistemas complejos
+Respuesta: b
+
+Pregunta 2: Cual es el enfoque principal de la logica temporal?
+a) Representar la nocion de tiempo y el orden de eventos
+b) Representar grados de verdad en afirmaciones
+c) Evaluar probabilidades de eventos futuros
+Respuesta: a
+
+Pregunta 3: En la logica difusa, que significa un valor de verdad de 0.8?
+a) Que una afirmacion es completamente verdadera
+b) Que una afirmacion es completamente falsa
+c) Que una afirmacion es parcialmente verdadera
+Respuesta: c
+
+Pregunta 4: Cual es el operador modal que se usa para expresar posibilidad en la logica modal?
+a) El operador "necesariamente"
+b) El operador "posiblemente"
+c) El operador "falsamente"
+Respuesta: b
+
+Pregunta 5: En la logica difusa, que operador se usa para representar una interseccion entre dos conjuntos difusos?
+a) El operador max
+b) El operador min
+c) El operador suma
+Respuesta: b
