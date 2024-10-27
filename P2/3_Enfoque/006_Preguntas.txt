@@ -1,0 +1,30 @@
+Pregunta 1: En que se basa el Aprendizaje Basado en el Conocimiento (ABC)?
+A) En la acumulacion de experiencias y reglas especificas.
+B) En la manipulacion de datos sin contexto.
+C) En el uso de redes neuronales profundas.
+Respuesta correcta: a
+
+Pregunta 2: Que es una base de conocimiento en el contexto de ABC?
+A) Una coleccion de datos sin estructura.
+B) Un conjunto organizado de hechos, reglas y relaciones.
+C) Un algoritmo para optimizar redes neuronales.
+Respuesta correcta: b
+
+Pregunta 3: Cual de los siguientes es un metodo comun en ABC?
+A) El metodo de gradiente descendente.
+B) La programacion basada en reglas.
+C) El algoritmo k-means.
+Respuesta correcta: b
+
+Pregunta 4: Como se diferencia el ABC de otros tipos de aprendizaje?
+A) Utiliza experiencias previas y reglas para guiar el aprendizaje.
+B) No requiere datos historicos para aprender.
+C) Se basa en la creacion de nuevas redes neuronales para cada problema.
+Respuesta correcta: a
+
+Pregunta 5: Que tipo de problemas es comun resolver con ABC?
+A) Problemas donde se requiere interpretar reglas especificas y casos previos.
+B) Problemas que requieren unicamente la clasificacion de imagenes.
+C) Problemas sin estructura y sin restricciones.
+Respuesta correcta: a
+

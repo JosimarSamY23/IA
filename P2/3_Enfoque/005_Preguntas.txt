@@ -1,0 +1,29 @@
+Pregunta 1: En que consiste el proceso de planificacion en Inteligencia Artificial?
+a) Encontrar una secuencia de acciones para alcanzar un objetivo
+b) Estimar la probabilidad de eventos futuros
+c) Clasificar datos en diferentes categorias
+Respuesta: a
+
+Pregunta 2: Que es un espacio de estados en la planificacion?
+a) Una estructura que organiza los datos de entrada
+b) Un conjunto de posibles situaciones o configuraciones del mundo
+c) Un modelo que representa solo los datos de salida
+Respuesta: b
+
+Pregunta 3: En el contexto de planificacion, que es un plan optimo?
+a) Un plan que maximiza el tiempo de ejecucion
+b) Un plan que minimiza el coste o maximiza la eficiencia
+c) Un plan que incluye todas las posibles acciones
+Respuesta: b
+
+Pregunta 4: Cual de los siguientes es un algoritmo comun para la planificacion?
+a) Algoritmo de Backtracking
+b) Algoritmo A* (A estrella)
+c) Algoritmo de K-means
+Respuesta: b
+
+Pregunta 5: Que es la planificacion jerarquica?
+a) Una planificacion que aborda los problemas por niveles, de lo general a lo especifico
+b) Una planificacion que no requiere de acciones
+c) Un modelo de planificacion sin objetivos
+Respuesta: a

@@ -1,0 +1,29 @@
+Pregunta 1: Que es el Tratamiento Logico del Lenguaje?
+A) La representacion de palabras en una red neuronal.
+B) La interpretacion y representacion de expresiones en lenguaje natural mediante logica formal.
+C) Un metodo para contar la frecuencia de palabras en un texto.
+Respuesta correcta: b
+
+Pregunta 2: Cual es el objetivo principal del Tratamiento Logico del Lenguaje?
+A) Mejorar la rapidez de los algoritmos de busqueda.
+B) Entender y razonar sobre el significado de expresiones del lenguaje natural.
+C) Crear modelos de texto mas compactos y eficientes.
+Respuesta correcta: b
+
+Pregunta 3: Que tipo de logica es comunmente utilizada en el Tratamiento Logico del Lenguaje?
+A) Logica de predicados.
+B) Logica difusa.
+C) Logica binaria.
+Respuesta correcta: a
+
+Pregunta 4: Que es un cuantificador en el contexto de Tratamiento Logico del Lenguaje?
+A) Un operador que expresa la cantidad de ocurrencias de una palabra en un texto.
+B) Una expresion que especifica la cantidad de elementos en una oracion (como "todos" o "algunos").
+C) Un metodo de clasificacion de palabras segun su frecuencia.
+Respuesta correcta: b
+
+Pregunta 5: Cual de los siguientes es un reto comun en el Tratamiento Logico del Lenguaje?
+A) El uso de algoritmos de ordenamiento eficiente.
+B) La ambiguedad y el contexto en el lenguaje natural.
+C) La reduccion del tamano de las bases de datos.
+Respuesta correcta: b
