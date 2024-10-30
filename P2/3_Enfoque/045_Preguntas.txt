@@ -1,0 +1,30 @@
+Pregunta 1: Que es GRAPHPLAN en el contexto de la planificacion?
+A) Un algoritmo que convierte problemas en arboles binarios.
+B) Un metodo para la planificacion de acciones basado en grafos.
+C) Una tecnica para optimizar bases de datos.
+Respuesta correcta: b
+
+Pregunta 2: En el algoritmo GRAPHPLAN, que es un "nivel de accion"?
+A) Un conjunto de estados alcanzables desde el nivel anterior.
+B) Un conjunto de acciones que pueden ejecutarse simultaneamente.
+C) La ultima fase en el proceso de planificacion.
+Respuesta correcta: b
+
+Pregunta 3: Que representa un "nivel de estado" en el algoritmo GRAPHPLAN?
+A) Los posibles estados despues de aplicar un conjunto de acciones.
+B) Las restricciones aplicadas a cada accion.
+C) La secuencia ordenada de pasos en un plan.
+Respuesta correcta: a
+
+Pregunta 4: Cual es el proposito de las "relaciones mutex" en GRAPHPLAN?
+A) Determinar el orden estricto de las acciones.
+B) Identificar acciones incompatibles o excluyentes entre si.
+C) Reducir el espacio de busqueda mediante el uso de heuristicas.
+Respuesta correcta: b
+
+Pregunta 5: Cuando termina el algoritmo GRAPHPLAN?
+A) Cuando se alcanza un nivel de estado que satisface el objetivo.
+B) Cuando se ha explorado todo el espacio de busqueda.
+C) Cuando todas las acciones han sido ejecutadas en un orden secuencial.
+Respuesta correcta: a
+

@@ -1,0 +1,29 @@
+Pregunta 1: Que es SATPLAN en el contexto de planificacion logica proposicional?
+A) Un algoritmo que traduce problemas de planificacion a problemas de satisfacibilidad logica.
+B) Un metodo para transformar planes en grafos de busqueda.
+C) Un proceso para analizar la complejidad de un problema de logica.
+Respuesta correcta: a
+
+Pregunta 2: En SATPLAN, que rol cumple un "solucionador SAT"?
+A) Convierte las acciones en pasos secuenciales.
+B) Resuelve el problema de satisfacibilidad para encontrar un plan.
+C) Evalua las restricciones de un problema en el espacio de estados.
+Respuesta correcta: b
+
+Pregunta 3: Cual es el objetivo de transformar un problema de planificacion en una formula de satisfacibilidad (SAT)?
+A) Reducir el tiempo de ejecucion de los algoritmos de busqueda.
+B) Facilitar la aplicacion de metodos eficientes de resolucion SAT.
+C) Incrementar el numero de posibles soluciones.
+Respuesta correcta: b
+
+Pregunta 4: Que sucede si la formula SAT resultante no es satisfacible?
+A) El problema de planificacion no tiene solucion para el limite de tiempo dado.
+B) Se deben eliminar algunas restricciones para resolverlo.
+C) SATPLAN intenta generar otra formula.
+Respuesta correcta: a
+
+Pregunta 5: En que consiste la desventaja principal de SATPLAN en problemas de planificacion?
+A) Genera muchos planes innecesarios.
+B) Puede requerir mucho tiempo para convertir grandes problemas a SAT.
+C) No se puede aplicar a problemas logicos proposicionales.
+Respuesta correcta: b

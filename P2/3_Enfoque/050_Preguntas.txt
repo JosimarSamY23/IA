@@ -1,0 +1,30 @@
+Pregunta 1: Que es la planificacion continua en inteligencia artificial?
+A) Un proceso donde se ajusta y reevalua un plan de manera dinamica mientras se ejecuta.
+B) Crear un solo plan que no cambie durante toda la ejecucion.
+C) Planificar una tarea una sola vez sin importar los cambios en el entorno.
+Respuesta correcta: a
+
+Pregunta 2: Que caracteriza a los sistemas multiagente en la planificacion?
+A) Varios agentes que trabajan de manera independiente sin cooperacion.
+B) Un grupo de agentes que coordinan y colaboran entre si para cumplir un objetivo comun.
+C) Un solo agente realizando todas las tareas planificadas.
+Respuesta correcta: b
+
+Pregunta 3: Que ventaja tiene la planificacion continua en un entorno cambiante?
+A) Permite adaptar el plan a cambios inesperados en tiempo real, manteniendo su efectividad.
+B) Evita realizar ajustes en el plan, lo cual ahorra recursos.
+C) Genera un unico plan que no se modifica.
+Respuesta correcta: a
+
+Pregunta 4: En que situacion es ideal utilizar un sistema de planificacion multiagente?
+A) Cuando multiples tareas necesitan realizarse simultaneamente con interaccion y comunicacion entre agentes.
+B) Cuando una sola tarea debe realizarse por un unico agente.
+C) Cuando todos los agentes realizan la misma tarea de manera individual.
+Respuesta correcta: a
+
+Pregunta 5: Que es fundamental para el exito de un sistema de planificacion multiagente?
+A) La comunicacion y coordinacion entre los agentes para evitar conflictos y optimizar recursos.
+B) Que cada agente ignore las acciones de los demas para evitar interferencias.
+C) Que los agentes sigan un unico plan sin cambios.
+Respuesta correcta: a
+

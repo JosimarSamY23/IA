@@ -1,0 +1,29 @@
+Pregunta 1: Que significa STRIPS en el contexto de algoritmos de planificacion?
+A) Sistema de Representacion de Hechos y Problemas.
+B) Sistema de Planificacion en Tiempo Real.
+C) Un marco para la representacion de acciones y estados.
+Respuesta correcta: c
+
+Pregunta 2: Cual es una caracteristica clave del lenguaje de planificacion STRIPS?
+A) Permite representar solo acciones deterministas.
+B) Utiliza logica de primer orden para describir acciones.
+C) No permite la representacion de precondiciones.
+Respuesta correcta: a
+
+Pregunta 3: En el contexto de STRIPS, que son las "precondiciones"?
+A) Condiciones que deben cumplirse antes de ejecutar una accion.
+B) Resultados que ocurren despues de ejecutar una accion.
+C) Acciones que no se pueden realizar.
+Respuesta correcta: a
+
+Pregunta 4: Que diferencia principal existe entre STRIPS y ADL (Action Description Language)?
+A) ADL no permite precondiciones, mientras que STRIPS si.
+B) ADL permite representaciones mas complejas, incluyendo efectos condicionales y no deterministas.
+C) STRIPS es mas avanzado que ADL en representacion de acciones.
+Respuesta correcta: b
+
+Pregunta 5: Cual es un uso comun de STRIPS en inteligencia artificial?
+A) Diagnostico medico.
+B) Planificacion automatica en robots.
+C) Clasificacion de imagenes.
+Respuesta correcta: b

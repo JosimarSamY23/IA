@@ -1,0 +1,30 @@
+Pregunta 1: Que es la vigilancia de ejecucion en el contexto de inteligencia artificial?
+A) El monitoreo continuo de un plan para asegurarse de que se cumple como se espera.
+B) Un metodo para crear nuevos planes desde cero.
+C) La eliminacion de pasos innecesarios en un plan.
+Respuesta correcta: a
+
+Pregunta 2: Que significa replanificacion en inteligencia artificial?
+A) Ajustar o modificar un plan existente debido a cambios o imprevistos durante su ejecucion.
+B) Crear un plan completamente nuevo cada vez que cambia una condicion.
+C) Realizar el mismo plan varias veces para obtener resultados consistentes.
+Respuesta correcta: a
+
+Pregunta 3: En que situacion es necesaria la replanificacion?
+A) Cuando surgen condiciones imprevistas que afectan el plan original.
+B) Cuando el plan esta funcionando correctamente.
+C) Cuando no hay incertidumbre en el ambiente de ejecucion.
+Respuesta correcta: a
+
+Pregunta 4: Que herramienta se usa comunmente para la vigilancia de ejecucion?
+A) Sensores y sistemas de monitoreo que detectan variaciones en el entorno.
+B) Dispositivos que crean automaticamente nuevos planes.
+C) Algoritmos que eliminan la vigilancia una vez iniciado el plan.
+Respuesta correcta: a
+
+Pregunta 5: Cual es el objetivo de la vigilancia de ejecucion?
+A) Detectar posibles desviaciones del plan original para tomar decisiones correctivas.
+B) Finalizar el plan rapidamente sin tener en cuenta los cambios.
+C) Hacer un solo intento del plan sin modificarlo.
+Respuesta correcta: a
+

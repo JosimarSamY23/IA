@@ -1,0 +1,29 @@
+Pregunta 1: En que consiste una Red Jerarquica de Tareas (HTN)?
+A) Es un modelo que descompone tareas complejas en subtareas mas simples.
+B) Es un metodo para analizar los recursos necesarios en un plan.
+C) Es una red que conecta diferentes acciones sin orden especifico.
+Respuesta correcta: a
+
+Pregunta 2: Cual es el objetivo principal de usar HTN en planificacion?
+A) Simplificar el proceso de seleccion de acciones mediante arboles de decision.
+B) Facilitar la creacion de planes a traves de la descomposicion de tareas.
+C) Identificar las restricciones de tiempo en cada paso del plan.
+Respuesta correcta: b
+
+Pregunta 3: En el contexto de HTN, que representa una "tarea compuesta"?
+A) Una tarea que no puede dividirse en subtareas.
+B) Una tarea principal que se descompone en varias subtareas.
+C) Un paso final en el proceso de planificacion.
+Respuesta correcta: b
+
+Pregunta 4: Cual de las siguientes afirmaciones es correcta sobre los metodos en HTN?
+A) Los metodos especifican como descomponer una tarea compuesta en subtareas.
+B) Los metodos solo aplican a tareas primitivas en un plan.
+C) Los metodos eliminan tareas que no son factibles en el plan.
+Respuesta correcta: a
+
+Pregunta 5: En una Red Jerarquica de Tareas, que es una "tarea primitiva"?
+A) Una tarea que necesita ser descompuesta en subtareas adicionales.
+B) Una tarea que puede ejecutarse directamente sin mas descomposicion.
+C) Una tarea intermedia que depende de multiples subtareas.
+Respuesta correcta: b

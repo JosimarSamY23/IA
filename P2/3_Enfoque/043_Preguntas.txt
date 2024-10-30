@@ -1,0 +1,29 @@
+Pregunta 1: Que es un espacio de estados en el contexto de la inteligencia artificial?
+A) Un conjunto de todos los posibles estados que puede alcanzar un agente.
+B) Un modelo de memoria para almacenar informacion.
+C) Un algoritmo utilizado para la busqueda de soluciones.
+Respuesta correcta: a
+
+Pregunta 2: Cual de los siguientes elementos forma parte de un espacio de estados?
+A) Los nodos de un arbol de decisiones.
+B) Las reglas de inferencia logica.
+C) Las funciones de activacion en redes neuronales.
+Respuesta correcta: a
+
+Pregunta 3: En un problema de busqueda, que representa cada estado en el espacio de estados?
+A) Un paso intermedio en la solucion.
+B) Una variable del entorno.
+C) Un objetivo alcanzado.
+Respuesta correcta: a
+
+Pregunta 4: Que se entiende por "estado inicial" en un espacio de estados?
+A) El estado en el que se encuentra un agente despues de realizar una accion.
+B) El estado desde el cual comienza la busqueda de soluciones.
+C) Un estado que no puede ser alcanzado.
+Respuesta correcta: b
+
+Pregunta 5: Cual de las siguientes afirmaciones es verdadera sobre un espacio de estados finito?
+A) Siempre contiene un numero ilimitado de estados.
+B) Puede ser representado como un grafo.
+C) No puede ser utilizado para algoritmos de busqueda.
+Respuesta correcta: b

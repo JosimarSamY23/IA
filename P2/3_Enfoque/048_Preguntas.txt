@@ -1,0 +1,29 @@
+Pregunta 1: Que es la planificacion condicional en inteligencia artificial?
+A) Un metodo de planificacion que considera diferentes condiciones y caminos alternativos.
+B) Un tipo de planificacion que no permite modificar el plan una vez creado.
+C) Una tecnica para evaluar la duracion de un plan.
+Respuesta correcta: a
+
+Pregunta 2: En planificacion condicional, que son las "ramas de decision"?
+A) Las opciones de caminos alternativos que se consideran segun las condiciones.
+B) Las acciones finales en un plan.
+C) Las restricciones que limitan el plan.
+Respuesta correcta: a
+
+Pregunta 3: Cual es la ventaja principal de la planificacion condicional?
+A) Permite crear planes flexibles que se adaptan a condiciones inciertas.
+B) Garantiza que el plan siga un unico camino sin desviarse.
+C) Reduce el tiempo necesario para realizar un plan.
+Respuesta correcta: a
+
+Pregunta 4: En planificacion condicional, que ocurre si una condicion en el plan cambia durante su ejecucion?
+A) El plan puede adaptarse y seguir un camino alternativo.
+B) El plan debe ser reiniciado desde el principio.
+C) El plan se cancela automaticamente.
+Respuesta correcta: a
+
+Pregunta 5: Que tipo de problemas suele resolver la planificacion condicional?
+A) Problemas con alta incertidumbre o informacion incompleta.
+B) Problemas que requieren un plan unico sin variaciones.
+C) Problemas que necesitan una estructura jerarquica.
+Respuesta correcta: a

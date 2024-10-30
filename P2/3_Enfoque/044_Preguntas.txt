@@ -1,0 +1,30 @@
+Pregunta 1: Que es la planificacion de orden parcial en inteligencia artificial?
+A) Un enfoque que considera el orden de las acciones de forma estricta.
+B) Un metodo que permite acciones concurrentes y no secuenciales.
+C) Una tecnica que solo se aplica a problemas lineales.
+Respuesta correcta: b
+
+Pregunta 2: Cual de las siguientes afirmaciones describe mejor una ventaja de la planificacion de orden parcial?
+A) Reduce el espacio de busqueda al eliminar estados irrelevantes.
+B) Facilita la generacion de planes mas flexibles y eficientes.
+C) Asegura que todas las acciones se realicen en un orden especifico.
+Respuesta correcta: b
+
+Pregunta 3: En la planificacion de orden parcial, que representa un "plan parcial"?
+A) Un plan que ha sido completamente ejecutado.
+B) Un conjunto de acciones que pueden ser ejecutadas en cualquier orden.
+C) Un plan que no incluye condiciones de finalizacion.
+Respuesta correcta: b
+
+Pregunta 4: Que herramienta se utiliza comunmente para gestionar las dependencias entre acciones en la planificacion de orden parcial?
+A) Matrices de adyacencia.
+B) Grafos de dependencias.
+C) Tablas de verdad.
+Respuesta correcta: b
+
+Pregunta 5: Cual de las siguientes es una caracteristica de la planificacion de orden parcial?
+A) Siempre produce un plan unico y determinista.
+B) Permite multiples soluciones para un mismo problema.
+C) Requiere que todas las acciones se realicen en un orden especifico.
+Respuesta correcta: b
+
