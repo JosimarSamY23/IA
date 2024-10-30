@@ -1,0 +1,29 @@
+Pregunta 1: Que tipo de razonamiento se basa en generalizar patrones a partir de ejemplos especificos?
+A) Razonamiento deductivo
+B) Razonamiento inductivo
+C) Razonamiento abductivo
+Respuesta correcta: b
+
+Pregunta 2: Cual es una caracteristica clave del aprendizaje inductivo?
+A) Se basa en la observacion de ejemplos concretos para extraer reglas generales.
+B) Parte de una regla general y deduce casos especificos.
+C) Solo aplica a situaciones donde hay una sola solucion posible.
+Respuesta correcta: a
+
+Pregunta 3: Que tipo de aprendizaje utiliza la logica para construir conclusiones especificas a partir de una hipotesis general?
+A) Aprendizaje deductivo
+B) Aprendizaje inductivo
+C) Aprendizaje observacional
+Respuesta correcta: a
+
+Pregunta 4: En cual de los siguientes se centra el aprendizaje inductivo?
+A) Observar patrones y generar reglas generales.
+B) Utilizar hipotesis generales para casos particulares.
+C) Seguir una serie de pasos rigidos y exactos.
+Respuesta correcta: a
+
+Pregunta 5: Que tipo de razonamiento se asocia frecuentemente con la busqueda de explicaciones posibles para un hecho observado?
+A) Razonamiento abductivo
+B) Razonamiento inductivo
+C) Razonamiento deductivo
+Respuesta correcta: a

@@ -1,0 +1,29 @@
+Pregunta 1: Que metodo se utiliza para justificar la validez de una afirmacion basada en pruebas o evidencias?
+A) Razonamiento deductivo
+B) Razonamiento inductivo
+C) Razonamiento abductivo
+Respuesta correcta: a
+
+Pregunta 2: Cual es la principal diferencia entre el razonamiento deductivo e inductivo?
+A) El deductivo generaliza a partir de casos especificos, mientras que el inductivo aplica teorias a casos especificos
+B) El deductivo parte de premisas generales hacia conclusiones especificas, mientras que el inductivo parte de observaciones hacia teorias
+C) El inductivo no utiliza evidencias, mientras que el deductivo siempre las requiere
+Respuesta correcta: b
+
+Pregunta 3: Que tipo de razonamiento se basa en la creencia de que las explicaciones mas simples son las correctas?
+A) Razonamiento inductivo
+B) Razonamiento deductivo
+C) Razonamiento por parsimonia
+Respuesta correcta: c
+
+Pregunta 4: Que enfoque se centra en la generacion de hipotesis y la comprobacion de su veracidad mediante experimentacion?
+A) Razonamiento inductivo
+B) Razonamiento deductivo
+C) Razonamiento abductivo
+Respuesta correcta: a
+
+Pregunta 5: Que tipo de razonamiento se asocia frecuentemente con la busqueda de explicaciones posibles para un hecho observado?
+A) Razonamiento abductivo
+B) Razonamiento inductivo
+C) Razonamiento deductivo
+Respuesta correcta: a
